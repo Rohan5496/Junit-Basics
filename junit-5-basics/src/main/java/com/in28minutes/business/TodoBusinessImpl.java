@@ -25,10 +25,5 @@ public class TodoBusinessImpl {
 			}
 		}
 		return filteredTodos;
-	}
-	
-	
-	
-	
-	
+	}	
 }
